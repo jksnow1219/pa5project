@@ -1,0 +1,14 @@
+C:\Users\joshs\source\repos\GUIProject\bin\Debug\GUIProject.exe.config
+C:\Users\joshs\source\repos\GUIProject\bin\Debug\GUIProject.exe
+C:\Users\joshs\source\repos\GUIProject\bin\Debug\GUIProject.pdb
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.csprojAssemblyReference.cache
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.Form1.resources
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.Form2.resources
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.exe
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.pdb
+C:\Users\joshs\source\repos\GUIProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshs\source\repos\GUIProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joshs\source\repos\GUIProject\obj\Debug\GUIProject.csproj.CopyComplete
